@@ -64,4 +64,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 # CLI declaration
-tap-everyaction = 'tap_everyaction.tap:Tapeveryaction.cli'
+tap-everyaction = 'tap_everyaction.tap:TapEveryAction.cli'
